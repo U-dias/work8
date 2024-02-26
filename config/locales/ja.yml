@@ -1,0 +1,20 @@
+ja:
+  activerecord:
+    attributes:
+      task:
+        title: "タイトル"
+        description: "内容"
+        start: "開始時期"
+        end: "終了予定"
+        updated_on: "更新日時"
+
+
+  time:
+   formats:
+    default:  "%Y/%m/%d"
+    time: "%Y/%m/%d %H:%M"
+
+  date:
+   formats:
+    default:  "%Y/%m/%d"
+    time: "%Y/%m/%d %H:%M"
