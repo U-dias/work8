@@ -7,6 +7,9 @@ ja:
         start: "開始時期"
         end: "終了予定"
         updated_on: "更新日時"
+        up: "更新日"
+        completed: "タスク進捗"
+        creat task: "タスク作成"
 
 
   time:

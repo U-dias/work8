@@ -8,9 +8,19 @@
 .title,.start,.end{width:15%;}
 .up{width:20%;}
 
-.edit,.show{color:inherit;
+.edit,.show,.add,.back{color:inherit;
             text-decoration:none;}
 
 .delete{border:none;
         background-color:inherit;
         cursor:pointer;}
+
+.flash{background-color:skyblue;}
+
+.file {
+       height:30%;
+      margin-left:auto;
+      margin-right:auto;
+      text-align:center;}
+.file td{display:block;
+         border-bottom:1px solid black;}
